@@ -1,0 +1,29 @@
+City,Country,Gender,Income capita,Currency Type
+Delhi,,M,3580,INR
+Mumbai,IND,M,1990,INR
+Chennai,IND,F,1870,INR
+Hyderabad,IND,M,1430,INR
+Bangalore,IND,F,1420,INR
+Kolkata,IND,F,1110,INR
+Delhi,,M,12747,INR
+Mumbai,IND,F,7005,INR
+Chennai,IND,M,6469,INR
+Hyderabad,IND,F,5063,INR
+Bangalore,IND,F,5051,INR
+Kolkata,IND,F,5051,INR
+New York,US,M,736192,USD
+Virginia,US,F,94454,USD
+Virginia,US,F,5020,USD
+California,US,M,102912,USD
+Virginia,US,F,65369,USD
+Colorado,US,F,7507,USD
+New Mexico,US,F,7590,USD
+Virginia,US,M,389908,USD
+New Jersey,US,M,46816,USD
+Texas,US,F,225,USD
+Maryland,US,M,360563,USD
+New Jersey,US,M,179665,USD
+Connecticut,US,M,332655,USD
+California,US,M,345344,USD
+Maryland,US,M,106142,USD
+Londan,UK,F,65369,EUR
